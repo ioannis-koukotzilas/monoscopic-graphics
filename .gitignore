@@ -1,0 +1,43 @@
+# WordPress
+wp-admin/
+wp-content/plugins/acf-theme-code-pro/
+wp-content/plugins/advanced-custom-fields-pro/
+wp-content/plugins/perfmatters/
+wp-content/upgrade/
+wp-content/uploads/
+wp-includes/
+licence.txt
+readme.html
+wp-config.php
+
+# DS_Store
+.DS_Store
+
+# JPEG
+*.jpg
+*.jpeg
+
+# Graphics Interchange Format
+*.gif
+
+# RAW
+*.raw
+
+# Web P
+*.webp
+
+# Portable Network Graphics
+*.png
+
+# Animated Portable Network Graphics
+*.apng
+
+# Tagged Image File Format
+*.tiff
+
+# Portable Document Format
+*.pdf
+
+# Fonts
+*.woff
+*.woff2
