@@ -20,3 +20,20 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 Normalizing styles have been helped along thanks to the fine work of
 Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 */
+
+#controls {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: rgba(255,255,255,0.7);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#customText {
+    margin-right: 10px;
+}
+
+
+
+
